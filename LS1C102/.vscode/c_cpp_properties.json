@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/drivers/include",
+                "${workspaceFolder}/drivers/public",
+                "${workspaceFolder}/src/wifi_test",
+                "${workspaceFolder}/drivers/private/ls1c102",
+                "C:/msys32/mingw32/include/c++/7.2.0/parallel",
+                "C:/msys32/mingw32/include/c++/7.2.0",
+                "${workspaceFolder}/user/ls1c102",
+                "${workspaceFolder}/src",
+                "C:/msys32/mingw32/include/c++/7.2.0/i686-w64-mingw32"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys32/mingw32/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
